@@ -1,0 +1,32 @@
+body {
+    background: rgb(194, 199, 238);
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+p   {
+    color: black;
+    font-weight: bolder;
+    font-family: 'Segoe UI';
+}
+
+.titulo {
+    color: rgb(230, 154, 54);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.subtitulo {
+    color: rgba(240, 157, 4, 0.945);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.destaque {
+    background: rgb(41, 106, 204);
+}
+
